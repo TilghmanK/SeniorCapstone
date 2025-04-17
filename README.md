@@ -45,11 +45,3 @@ In this project, we perform **Principal Component Analysis (PCA)** on Chandra X-
    - Visual comparison to theoretical shock structures
 
 ---
-
-## 🚀 Usage
-
-```bash
-git clone https://github.com/yourusername/tycho-pca.git
-cd tycho-pca
-pip install -r requirements.txt
-python tycho_pca_analysis.py
