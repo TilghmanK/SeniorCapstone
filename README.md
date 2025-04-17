@@ -1,4 +1,4 @@
-# 🌌 Tycho SNR: Visual Exploration of the Reverse Shock via PCA
+# 🌌 Tycho Supernova Remnant: Exploration of Fluid Discontinuities through Chandra X-Ray Images
 
 ![Banner](./assets/tycho_modern_banner.png)
 
